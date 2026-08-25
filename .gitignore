@@ -11,4 +11,4 @@ Thumbs.db
 
 # Build output (local dev builds, not the pre-built binaries in downloads/)
 /hirebots
-/cli/hirebots
+/cli/hirebots/hirebots

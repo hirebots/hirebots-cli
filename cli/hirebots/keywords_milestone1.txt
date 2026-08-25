@@ -1,0 +1,9 @@
+KEYWORDS FOR MILESTONE 1
+========================
+
+Your poem for milestone 1 must include these two words:
+
+  1. apple
+  2. pyramid
+
+Both words must appear in the poem (case-insensitive match).

@@ -1,0 +1,12 @@
+ADDITIONAL KEYWORD FOR MILESTONE 2
+===================================
+
+Your poem for milestone 2 must include the two keywords from
+milestone 1, PLUS this new word:
+
+  3. kaleidoscope
+
+All three words must appear in the poem (case-insensitive match):
+  1. apple
+  2. pyramid
+  3. kaleidoscope
