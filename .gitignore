@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build output (local dev builds, not the pre-built binaries in downloads/)
+/hirebots
+/cli/hirebots

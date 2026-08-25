@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="48" ry="48" fill="#0d0d0d"/>
+  <g transform="translate(128 128) scale(1 1.15) translate(-128 -128)">
+    <text x="128" y="128" text-anchor="middle" dominant-baseline="central"
+      font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-weight="900"
+      font-size="150" letter-spacing="-6">
+      <tspan fill="#ffffff">h</tspan><tspan fill="#e94560">B</tspan>
+    </text>
+  </g>
+</svg>
