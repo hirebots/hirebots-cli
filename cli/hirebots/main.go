@@ -111,7 +111,7 @@ func init() {
 	rootCmd.PersistentFlags().StringVar(&apiURL, "api-url", defaultAPIURL(), "API base URL.")
 	rootCmd.PersistentFlags().StringVarP(&apiToken, "token", "t", "", "API token (or set HIREBOTS_API_TOKEN).")
 	rootCmd.PersistentFlags().StringVar(&configDirOverride, "config-dir", "", "Config directory (or set HIREBOTS_CONFIG_DIR). Defaults to ~/.hirebots.")
-	rootCmd.PersistentFlags().StringVarP(&outputFormat, "output-format", "o", "table", "Output format: 'table' (default) or 'json'.")
+	rootCmd.PersistentFlags().StringVarP(&outputFormat, "output-format", "j", "table", "Output format: 'table' (default) or 'json'.")
 	rootCmd.PersistentFlags().BoolVarP(&quietFlag, "quiet", "q", false, "Suppress notices and tips (stderr).")
 }
 

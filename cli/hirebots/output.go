@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-// outputFormat is set by the --output-format / -o flag on the root command.
+// outputFormat is set by the --output-format / -j flag on the root command.
 // Values: "table" (default) or "json".
 var outputFormat string
 
